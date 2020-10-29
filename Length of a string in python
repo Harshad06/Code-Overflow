@@ -1,0 +1,9 @@
+# Python program to calculate length of a string using len() method 
+
+# Length of below string is 15 
+string = "HARSHAD SHRINGI"
+print(len(string)) 
+
+# Length of below string is 13 
+string = "HACKTOBERFEST"
+print(len(string)) 
